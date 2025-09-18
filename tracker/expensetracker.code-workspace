@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../expensetracker"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	]
+}
